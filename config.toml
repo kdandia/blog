@@ -33,6 +33,7 @@ themesdir = "../.."
 	[[params.socialbuttons]]
 	faicon = "linkedin"
 	url = "https://linkedin.com""
+	
 	[[params.navlinks]]
 	name = "About"
 	url = "about"
