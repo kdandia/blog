@@ -27,16 +27,16 @@ themesdir = "../.."
 
 	# Social buttons for sidebar
 	# Each of these are optional
-	[[params.socialbuttons]]
-	faicon = "github"
-	url = "https://github.com/kdandia""
-	[[params.socialbuttons]]
-	faicon = "linkedin"
-	url = "https://linkedin.com""
+	#[[params.socialbuttons]]
+	#faicon = "github"
+	#url = "https://github.com/kdandia""
+	#[[params.socialbuttons]]
+	#faicon = "linkedin"
+	#url = "https://linkedin.com""
 	
-	[[params.navlinks]]
-	name = "About"
-	url = "about"
+	#[[params.navlinks]]
+	#name = "About"
+	#url = "about"
 	
 	[[params.navlinks]]
 	name = "Blog"
